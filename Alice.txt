@@ -6,4 +6,6 @@ How you doin?.
 
 This line is done during rebasing step.
 
-This line is added in master branch..
+This line is added in master branch.
+
+To see what happens when we pull.
